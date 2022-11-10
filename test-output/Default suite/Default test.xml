@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="ASK" failures="0" tests="1" name="com.myproject.qa.TestCases.ZerodhaSignUPTest" time="14.097" errors="0" timestamp="14 Oct 2022 05:29:55 GMT">
+  <testcase classname="com.myproject.qa.TestCases.ZerodhaSignUPTest" name="ZerodhaSignUpPage_PositiveTest" time="0.553"/>
+</testsuite>
